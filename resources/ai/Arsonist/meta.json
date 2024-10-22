@@ -1,0 +1,19 @@
+{
+  "name": "Brandstifter",
+  "description": "Der Brandstifter ähnelt dem Kalifen.",
+  "author": "Easterling",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": false,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}

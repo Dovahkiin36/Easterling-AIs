@@ -1,0 +1,19 @@
+{
+  "name": "Lord Woolsack (SH1)",
+  "description": "Der vorsichtige Lord aus Stronghold 1 ist ein treuer Freund des Königs.",
+  "author": "Easterling",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}

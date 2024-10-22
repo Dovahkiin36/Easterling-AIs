@@ -1,0 +1,19 @@
+{
+  "name": "Sultan (Easterling)",
+  "description": "Der Sultan baut einen Palast.",
+  "author": "Easterling",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}
