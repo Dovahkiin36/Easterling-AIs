@@ -2,7 +2,7 @@
   "name": "Wolf (SH1)",
   "description": "Der Wolf aus Stronghold 1",
   "author": "Easterling",
-  "link": "",
+  "link": "https://github.com/Dovahkiin36/Easterling-AIs",
   "version": "1.0.0",
   "defaultLang": "de",
   "supportedLang": ["de"],

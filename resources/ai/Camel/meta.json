@@ -2,7 +2,7 @@
   "name": "Kamel",
   "description": "Das Kamel baut keine Nahrung an.",
   "author": "Easterling",
-  "link": "",
+  "link": "https://github.com/Dovahkiin36/Easterling-AIs",
   "version": "1.0.0",
   "defaultLang": "de",
   "supportedLang": ["de"],

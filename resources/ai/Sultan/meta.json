@@ -2,7 +2,7 @@
   "name": "Sultan (Easterling)",
   "description": "Der Sultan baut einen Palast.",
   "author": "Easterling",
-  "link": "",
+  "link": "https://github.com/Dovahkiin36/Easterling-AIs",
   "version": "1.0.0",
   "defaultLang": "de",
   "supportedLang": ["de"],
