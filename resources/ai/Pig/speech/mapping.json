@@ -1,5 +1,5 @@
 {
-  "message_from" : ".wav",
+  "message_from" : "General_Message_Pig.wav",
   "taunt_1"      : "wa_taunt_01.wav",
   "taunt_2"      : "wa_taunt_02.wav",
   "taunt_3"      : "wa_taunt_03.wav",
@@ -11,7 +11,7 @@
   "nervous_2"    : "wa_nervous_02.wav",
   "victory_1"    : "wa_vict_01.wav",
   "victory_2"    : "wa_vict_02.wav",
-  "victory_3"    : ".wav",
+  "victory_3"    : "wa_add_player_01.wav",
   "victory_4"    : "wa_taunt_04.wav",
   "request"      : "wa_req_01.wav",
   "thanks"       : "wa_thanks_01.wav",
