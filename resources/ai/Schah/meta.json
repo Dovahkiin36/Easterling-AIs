@@ -1,6 +1,6 @@
 {
-  "name": "Sultan (Easterling)",
-  "description": "Der Sultan baut einen Palast.",
+  "name": "Schah",
+  "description": "Der Schah baut einen Palast.",
   "author": "Easterling",
   "link": "https://github.com/Dovahkiin36/Easterling-AIs",
   "version": "1.0.0",
@@ -13,7 +13,7 @@
     "aiv": true,
     "lord": true,
     "startTroops": true,
-    "lines": false,
+    "lines": true,
     "portrait": false
   }
 }
